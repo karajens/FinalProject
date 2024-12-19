@@ -1,0 +1,78 @@
+h1{
+    font-weight: bold;
+    font-style: italic;
+}
+html, body {
+    width: 85%;
+    margin: 0 auto;
+    padding: 0;
+  } 
+h1 {
+    color: rgba(255, 157, 0, 0.838);
+    text-align: center; 
+}
+html, body {
+    background-color: #fad498;
+}
+html {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+  }
+#tableau h2 {
+    text-align: center;  
+  }
+.video.section {
+    text-align: center;  
+    margin: 0 auto;      
+    max-width: 800px;     
+  }
+  
+ 
+  .video.section iframe {
+    display: block;       
+    margin: 20px auto;   
+  }
+  #activities.section {
+    max-width: 800px;    
+    margin: 0 auto;     
+  }
+  
+#activities.section h2 {
+    text-align: center;   
+}
+ #activities.section ol,
+ #activities.section ul {
+    margin: 1em 0;
+    padding-left: 2em;
+    list-style-position: outside;
+    text-align: left;
+}
+.intro#top {
+    max-width: 800px;    
+    margin: 0 auto;      
+    text-align: left;    
+}
+.intro#top h2 {
+    text-align: center;    
+}
+#gallery.section {
+    max-width: 850px;     
+    margin: 0 auto;       
+    text-align: center;    
+}
+#gallery.section h2 {
+    text-align: center;   
+}
+#gallery.section img {
+    display: block;       
+    margin: 20px auto;   
+}
+#info.drain {
+    max-width: 900px;  
+    margin: 0 auto;    
+    text-align: center; 
+    padding: 20px;      
+}
+#info.drain h2 {
+    text-align: center; 
+  }
+  
